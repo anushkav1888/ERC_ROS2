@@ -1,0 +1,5 @@
+[console_scripts]
+node1 = week0_tutorials.node1:main
+node2 = week0_tutorials.node2:main
+node3 = week0_tutorials.node3:main
+
