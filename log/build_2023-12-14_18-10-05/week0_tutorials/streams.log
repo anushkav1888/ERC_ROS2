@@ -1,0 +1,27 @@
+[0.667s] Invoking command in '/home/anushka/erc_ws/src/week0_tutorials': PYTHONPATH=/home/anushka/erc_ws/build/week0_tutorials/prefix_override:/home/anushka/erc_ws/install/week0_tutorials/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/week0_tutorials build --build-base /home/anushka/erc_ws/build/week0_tutorials/build install --record /home/anushka/erc_ws/build/week0_tutorials/install.log --single-version-externally-managed
+[0.865s] running egg_info
+[0.865s] writing ../../build/week0_tutorials/week0_tutorials.egg-info/PKG-INFO
+[0.865s] writing dependency_links to ../../build/week0_tutorials/week0_tutorials.egg-info/dependency_links.txt
+[0.865s] writing entry points to ../../build/week0_tutorials/week0_tutorials.egg-info/entry_points.txt
+[0.865s] writing requirements to ../../build/week0_tutorials/week0_tutorials.egg-info/requires.txt
+[0.866s] writing top-level names to ../../build/week0_tutorials/week0_tutorials.egg-info/top_level.txt
+[0.867s] reading manifest file '../../build/week0_tutorials/week0_tutorials.egg-info/SOURCES.txt'
+[0.867s] writing manifest file '../../build/week0_tutorials/week0_tutorials.egg-info/SOURCES.txt'
+[0.868s] running build
+[0.868s] running build_py
+[0.868s] copying week0_tutorials/daughter2.py -> /home/anushka/erc_ws/build/week0_tutorials/build/lib/week0_tutorials
+[0.868s] running install
+[0.868s] running install_lib
+[0.869s] copying /home/anushka/erc_ws/build/week0_tutorials/build/lib/week0_tutorials/daughter2.py -> /home/anushka/erc_ws/install/week0_tutorials/lib/python3.10/site-packages/week0_tutorials
+[0.869s] byte-compiling /home/anushka/erc_ws/install/week0_tutorials/lib/python3.10/site-packages/week0_tutorials/daughter2.py to daughter2.cpython-310.pyc
+[0.870s] running install_data
+[0.870s] running install_egg_info
+[0.871s] removing '/home/anushka/erc_ws/install/week0_tutorials/lib/python3.10/site-packages/week0_tutorials-0.0.0-py3.10.egg-info' (and everything under it)
+[0.872s] Copying ../../build/week0_tutorials/week0_tutorials.egg-info to /home/anushka/erc_ws/install/week0_tutorials/lib/python3.10/site-packages/week0_tutorials-0.0.0-py3.10.egg-info
+[0.872s] running install_scripts
+[0.888s] Installing basestation script to /home/anushka/erc_ws/install/week0_tutorials/lib/week0_tutorials
+[0.888s] Installing daughter1 script to /home/anushka/erc_ws/install/week0_tutorials/lib/week0_tutorials
+[0.888s] Installing daughter2 script to /home/anushka/erc_ws/install/week0_tutorials/lib/week0_tutorials
+[0.888s] Installing daughter3 script to /home/anushka/erc_ws/install/week0_tutorials/lib/week0_tutorials
+[0.889s] writing list of installed files to '/home/anushka/erc_ws/build/week0_tutorials/install.log'
+[0.916s] Invoked command in '/home/anushka/erc_ws/src/week0_tutorials' returned '0': PYTHONPATH=/home/anushka/erc_ws/build/week0_tutorials/prefix_override:/home/anushka/erc_ws/install/week0_tutorials/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/week0_tutorials build --build-base /home/anushka/erc_ws/build/week0_tutorials/build install --record /home/anushka/erc_ws/build/week0_tutorials/install.log --single-version-externally-managed

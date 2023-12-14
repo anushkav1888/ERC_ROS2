@@ -6,21 +6,34 @@ def generate_launch_description():
     return LaunchDescription([
         Node(
             package='week0_tutorials',
-            executable='node1',
-            name='node1',
+            executable='daughter1',
+            name='daughter1',
             output='screen',
         ),
              Node(
             package='week0_tutorials',
-            executable='node2',
-            name='node2',
+              executable='daughter2',
+            name='daughter2',
             output='screen',
         ),
              Node(
             package='week0_tutorials',
-            executable='node3',
-            name='node3',
+            executable='daughter3',
+            name='daughter3',
             output='screen',
+             ),
+                    Node(
+            package='week0_tutorials',
+            executable='daughter4',
+            name='daughter4',
+            output='screen',
+             ),
+             Node(
+            package='week0_tutorials',
+            executable='basestation',
+            name='basestation',
+            output='screen',
+    
         ),
 
     ])

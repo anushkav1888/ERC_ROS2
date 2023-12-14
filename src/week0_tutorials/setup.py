@@ -22,9 +22,11 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-        'node1 = week0_tutorials.node1:main',
-        'node2 = week0_tutorials.node2:main',
-        'node3 = week0_tutorials.node3:main',
+        'daughter1 = week0_tutorials.daughter1:main',
+'daughter3 = week0_tutorials.daughter3:main',     
+  'daughter2 = week0_tutorials.daughter2:main',
+    'daughter4 = week0_tutorials.daughter4:main',
+'basestation = week0_tutorials.basestation:main',
         ],
     },
 )

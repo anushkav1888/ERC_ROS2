@@ -14,6 +14,8 @@ test/test_copyright.py
 test/test_flake8.py
 test/test_pep257.py
 week0_tutorials/__init__.py
-week0_tutorials/node1.py
-week0_tutorials/node2.py
-week0_tutorials/node3.py
+week0_tutorials/basestation.py
+week0_tutorials/daughter1.py
+week0_tutorials/daughter2.py
+week0_tutorials/daughter3.py
+week0_tutorials/daughter4.py
